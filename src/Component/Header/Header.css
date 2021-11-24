@@ -1,0 +1,13 @@
+.main{
+    width: 100vw;
+    height: 100vh;
+    margin-top: -10;
+    overflow: hidden;
+}
+.header{
+    background-color: red;
+    
+}
+.header svg{
+    display: block;
+}
